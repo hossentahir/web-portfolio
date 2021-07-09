@@ -1,0 +1,17 @@
+...........................Here is my academic qualification.................................
+
+
+JSC: 
+	W.M high school, MOllahat-Bagerhat
+	Result: 5.00  
+
+SSC:
+	W.M high school, MOllahat-Bagerhat
+	Result: 4.83 (science)
+HSC: 
+	Govt. Bangabandhu collage, Gopalgonj-Dhaka
+	Result: 5.00 (science)
+Now: 
+	I'm preparing myself for University admission test and in my laisure time i'm learning web development.
+	
+	That's all about me
